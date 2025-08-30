@@ -1,7 +1,7 @@
 # National Health Insurance (NHI) – Machine Learning Project
 
 **Module:** Technical Programming 2  
-**Due Date:** 26 August 2025  
+**Due Date:** 30 August 2025  
 
 **Group Members (Alphabetical Order):**  
 - Mhle L. – 22322987  
