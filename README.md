@@ -17,8 +17,7 @@
 
 This project focuses on predicting healthcare service demand under South Africa's National Health Insurance (NHI) system using real-world clinical data from the **MIMIC-III Clinical Database (Demo Version 1.4)**.  
 
-The goal is to build a machine learning model that can forecast patient flows, ICU stays, and treatment demand to support resource allocation and policy planning.
-
+The goal is to build a machine learning model where we predict healthcare service demand under the NHI system, using patient demographics, admissions, diagnoses, and treatment data
 ---
 
 ## Features
